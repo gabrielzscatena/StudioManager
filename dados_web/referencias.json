@@ -1,0 +1,13 @@
+{
+  "descricao": "Referências musicais publicadas pelo servidor web local do StudioManager",
+  "referencias": [
+    {"faixa": "Construção", "artista": "Chico Buarque", "album": "Construção", "genero": "MPB", "duracao": "6:24", "preview_url": ""},
+    {"faixa": "Águas de Março", "artista": "Elis Regina & Tom Jobim", "album": "Elis & Tom", "genero": "Bossa Nova", "duracao": "3:32", "preview_url": ""},
+    {"faixa": "Diário de um Detento", "artista": "Racionais MC's", "album": "Sobrevivendo no Inferno", "genero": "Rap", "duracao": "7:31", "preview_url": ""},
+    {"faixa": "Que País É Esse", "artista": "Legião Urbana", "album": "Que País É Este 1978/1987", "genero": "Rock", "duracao": "2:56", "preview_url": ""},
+    {"faixa": "Chão de Giz", "artista": "Zé Ramalho", "album": "Zé Ramalho", "genero": "MPB", "duracao": "4:27", "preview_url": ""},
+    {"faixa": "Mas Que Nada", "artista": "Jorge Ben", "album": "Samba Esquema Novo", "genero": "Samba", "duracao": "3:05", "preview_url": ""},
+    {"faixa": "Evidências", "artista": "Chitãozinho & Xororó", "album": "Cowboy do Asfalto", "genero": "Sertanejo", "duracao": "4:40", "preview_url": ""},
+    {"faixa": "Garota de Ipanema", "artista": "João Gilberto", "album": "Getz/Gilberto", "genero": "Bossa Nova", "duracao": "5:24", "preview_url": ""}
+  ]
+}
